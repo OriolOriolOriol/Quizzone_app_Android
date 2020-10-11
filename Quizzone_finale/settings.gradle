@@ -1,0 +1,2 @@
+rootProject.name='Quizzone_finale'
+include ':app'
